@@ -18,10 +18,6 @@ You can upload this project directly to GitHub.
 ✔ Ready for GitHub upload  
 
 ## How to Use
-1. Import the SQL file into MySQL, PostgreSQL, or SQLite (minus datatype adjustments).
+1. Import the SQL file into MySQL,
 2. Run the queries to analyze ordering behavior, revenue, delivery efficiency, etc.
 3. Extend the schema or add new queries as needed.
-
-## Author
-Your Name  
-(Replace with your GitHub link)
